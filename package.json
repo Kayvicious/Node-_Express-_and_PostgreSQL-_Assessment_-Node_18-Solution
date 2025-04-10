@@ -4,7 +4,6 @@
   "description": "zid-be-node-express-postgresql-xx-assignment qualified challenge.",
   "main": "jest.config.js",
   "directories": {
-    "src": "src",
     "test": "test"
   },
   "scripts": {
